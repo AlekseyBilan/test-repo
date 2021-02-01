@@ -1,0 +1,12 @@
+.container {
+    width: 400px;
+    border: 2px solid #cdcdcd;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fafafa;
+  }
+  
+  .comment-title {
+    text-align: center;
+    box-shadow: 0 0 20px red;
+}
